@@ -1,2 +1,0 @@
-# MetodosRemoto
-Repositorio para practicar
